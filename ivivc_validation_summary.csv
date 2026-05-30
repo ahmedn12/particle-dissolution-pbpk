@@ -1,0 +1,4 @@
+Formulation,AUC_obs,AUC_pred,PE_AUC_pct,Cmax_obs,Cmax_pred,PE_Cmax_pct,AUC_PASS,Cmax_PASS
+Formulation A,1618.5,1450.4,-10.4,148,113.8,-23.1,True,False
+Formulation B,1642.0,1413.6,-13.9,128,98.2,-23.3,True,False
+Formulation C,1747.0,1369.9,-21.6,118,88.1,-25.4,False,False
